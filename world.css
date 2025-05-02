@@ -1,0 +1,13 @@
+::highlighted {
+  background-color: #ff0;
+}
+::highlighted::before {
+  content: "Highlighted: ";
+  font-weight: bold;
+  color: #f00;
+}
+::highlighted::after {
+  content: " (End)";
+  font-style: italic;
+  color: #00f;
+}
