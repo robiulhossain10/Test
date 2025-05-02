@@ -12,6 +12,7 @@
     <input type="reset" value="Reset">
     <button>submit</button>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error cum similique aspernatur corrupti veniam quasi sapiente id voluptatum eos facere voluptatibus adipisci, esse aperiam animi quod dolor soluta! Facilis, recusandae.</p>
+    <button>reset</button>
   </form>
 </body>
 </html>
