@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <form action="">
+    <input type="text" name="name" id="name" placeholder="Enter your name">
+    <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
+    <button>submit</button>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error cum similique aspernatur corrupti veniam quasi sapiente id voluptatum eos facere voluptatibus adipisci, esse aperiam animi quod dolor soluta! Facilis, recusandae.</p>
+    <button>reset</button>
+  </form>
+</body>
+</html>
